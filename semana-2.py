@@ -14,7 +14,6 @@ def mostrar_menu():
     print("-----------------------------")
     return input("Seleccione una opción: ")
  
-# --- PROGRAMA PRINCIPAL ---
 # El menú se repite hasta que el usuario elija salir
 ejecutando = True
 while ejecutando:
@@ -34,3 +33,4 @@ while ejecutando:
  
 # Objetivo: gestionar un inventario con menú interactivo,
 # validación de datos y estadísticas usando listas y diccionarios.
+# Modulacion de Funciones.
